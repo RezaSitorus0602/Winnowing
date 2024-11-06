@@ -1,0 +1,15 @@
+Nama Database : db_algoritma_winnowing
+
+
+Login Admin|
+Username: admin 
+Password: admin
+
+Login sebagai dosen:
+Username: dosen
+Password: dosen
+
+Login sebagai mahasiswa (Default username dan Passwordnya NIM): 
+Username: NIM (Mahasiswa/Mahasiswi)
+Password: NIM (Mahasiswa/Mahasiswi)
+
